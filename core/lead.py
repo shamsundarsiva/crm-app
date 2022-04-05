@@ -15,7 +15,9 @@ def update_lead():
 
 # Delete Lead.
 def delete_lead():
-	print "Lead deleted successfully."
+	print "Lead removed successfully."
 	
 
-
+# view Lead.
+def view_lead():
+	print "view the Lead."
